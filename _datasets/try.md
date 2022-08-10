@@ -1,7 +1,7 @@
 ---
 layout: dataset
 id: try
-name: TRY - Global Plant Trait Database
+name: TRY - Plant Trait Database
 contentURL: https://github.com/open-traits-network/open-traits-network.github.io/blob/9d2abc8b02bda357708f6b5458013f56446fe539/_data/R/manual_downloads/SpeciesTraitsCombinations4OTN_Family.zip
 Timestamp: 8/28/2019 10:33:07
 datasetDOI_URL: https://www.try-db.org
@@ -15,7 +15,7 @@ decimalLongitude: -178 to 180
 taxon: Tracheophyta
 eventDate: about 1900 to current
 paperDOIcitation: https://www.doi.org/10.1111/j.1365-2486.2011.02451.x
-description: The TRY database is a growing compilation of vascular plant traits (also mosses and lichens) including published (>10,000 original publications) and unpublished data. TRY started in 2007. As of today, there are 12 mio trait records.  
+description: The TRY database is a curated and growing compilation of vascular plant traits (also mosses, lichens and fungi) including published and unpublished data. TRY started in 2007. As of today, there are about 12 mio trait records.  
 taxaList: 280,000 plant taxa
 usefulClasses: Mostly in-situ measurements on plant individuals
 dataStandard: Standardization of traits according to http://top-thesaurus.org/; standardization of taxonomy based on http://www.theplantlist.org/
